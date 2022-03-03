@@ -1,0 +1,131 @@
+[
+    {
+        "id": 1,
+        "title": "Learn HTML5 & CSS3",
+        "image": "https://www.xhtmljunction.com/blog/wp-content/uploads/2018/02/html5-css3.png",
+        "description": "HTML5 is the latest version, made official by the World Wide Web Consortium in 2014. ... It is responsible for creating more visually engaging web pages, applications and interfaces. CSS3 is the latest version, and has many more extended features than previous versions",
+        "author": "freeCodeCamp",
+        "rating": 4.5,
+        "price": 35.85
+    },
+    {
+        "id": 2,
+        "title": "Modern Javascript ES6",
+        "image": "https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=600/api/page/5330288608542720/image/download/6288755792019456",
+        "description": "You'll start writing modern JavaScript and really understand why we need ES6. Mastering modern JavaScript starts with understanding the reasoning behind the main ES6 features - arrow functions, variables, template literals. Doing so will help you grasp the concepts behind Node, React and Angular",
+        "author": "Learn with Sumit",
+        "rating": 5,
+        "price": 42.6
+    },
+    {
+        "id": 3,
+        "title": "React JS",
+        "image": "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_1e0d62f445e6448af1e125f5702c8227/reactjs-development-services.png",
+        "description": "React. js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications. It's used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components.",
+        "author": "Programming Hero",
+        "rating": 4,
+        "price": 44
+    },
+    {
+        "id": 4,
+        "title": "Vue JS",
+        "image": "https://positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png",
+        "description": "What It's Used For: VueJS is primarily used to build web interfaces and one-page applications. In saying that, it can also be applied to both desktop and mobile app development thanks to the HTML extensions and JS base working in tandem with an Electron framework – making it a heavily favoured frontend tool",
+        "author": "eduReka",
+        "rating": 4.5,
+        "price": 62.98
+    },
+    {
+        "id": 5,
+        "title": "Angular JS",
+        "image": "https://acquven.com/blog/02/images/angular.jpg",
+        "description": "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write.",
+        "author": "Google",
+        "rating": 5,
+        "price": 55
+    },
+    {
+        "id": 6,
+        "title": "AWS-Amazon Web Services",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png",
+        "description": "Amazon Web Services offers a broad set of global cloud-based products including compute, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security and enterprise applications. These services help organizations move faster, lower IT costs, and scale",
+        "author": "Amazon",
+        "rating": 3.5,
+        "price": 65.45
+    },
+    {
+        "id": 7,
+        "title": "Three.JS",
+        "image": "https://embed-ssl.wistia.com/deliveries/fee5063331832c55fcb54729b9e65ebc9f9ed4c1.jpg",
+        "description": "js is a cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL.",
+        "author": "JOKO",
+        "rating": 4.5,
+        "price": 74.58
+    },
+    {
+        "id": 8,
+        "title": "MongoDb",
+        "image": "https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png",
+        "description": "While MongoDB is more flexible and ensures high and diverse data availability, a SQL Database operates with the ACID (Atomicity, Consistency, Isolation, and Durability) properties and ensures greater reliability of transactions",
+        "author": "YOYO",
+        "rating": 4,
+        "price": 85
+    },
+    {
+        "id": 9,
+        "title": "Node.JS",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
+        "description": "Node. js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature. It's used for traditional web sites and back-end API services, but was designed with real-time, push-based architectures in mind.",
+        "author": "Sumit Saha",
+        "rating": 4.5,
+        "price": 88.63
+    },
+    {
+        "id": 10,
+        "title": "BlockChain Development",
+        "image": "https://www.cyberbahnit.com/wp-content/uploads/2017/11/blockchain.jpg",
+        "description": "Blockchain Software Developer: Blockchain software developers maintain a rather high-level interaction with the Blockchain. Their role is to use the algorithms developed by core Blockchain developers and incorporate them into their applications, developing decentralized applications that run on the Blockchain",
+        "rating": 5,
+        "price": 150
+    },
+    {
+        "id": 11,
+        "title": "UI/UX Design",
+        "image": "https://www.sevenmentor.com/wp-content/uploads/2019/07/UI-UX-980x544-1.jpg",
+        "description": "A user experience (UX) designer works on a team to create products that provide meaningful and enjoyable experiences for users. They are concerned with the entire process of product design, from branding to design to useability. UI (user interface) designers build interfaces in software or other computerized devices",
+        "rating": 3.5,
+        "price": 22.35
+    },
+    {
+        "id": 12,
+        "title": "Graphics Design",
+        "image": "https://i0.wp.com/www.graphic-design-institute.com/wp-content/uploads/2020/02/the-best-applications-to-learn-as-a-graphics-designer.jpg?fit=1200%2C800&ssl=1",
+        "description": "Almost all of the design institutes in India offer courses of Graphic Designing for candidates who aspire to make a career in design in this particular field. There are several job opportunities after Graphic Designing in India and candidates with a degree in Graphic Designing have excellent career prospects.",
+        "rating": 4.5,
+        "price": 28.96
+    },
+    {
+        "id": 13,
+        "title": "Motion Graphics",
+        "image": "https://i.ytimg.com/vi/kR5K1cPYl4I/maxresdefault.jpg",
+        "description": "The most important software to master as a Motion Graphic artist is Adobe After Effects. While you can create motion design projects in other programs, nothing is more versatile and essential to a modern Motion Graphics workflow. After Effects is a 2.5D animation software.",
+        "rating": 4,
+        "price": 36.5
+    },
+    {
+        "id": 14,
+        "title": "Python & Django",
+        "image": "https://assets.website-files.com/5b6901669b93d7837e36dc4c/615e1104ffbf5ae592265cc7_python-django.png",
+        "description": "Python and Django are intertwined but not the same. Python is a programming language that's used for many different applications: artificial intelligence, machine learning, desktop apps, etc. On the other hand, Django is a Python framework for full-stack web application development and server development.",
+        "rating": 5,
+        "price": 85.63
+    },
+    {
+        "id": 15,
+        "title": "Video Editing",
+        "image": "https://pixelperfectvideos.com/wp-content/uploads/2021/03/Budget-video-editing-tools-for-Mac-PC-Filmora-9-vs-FilmoraPro.jpg",
+        "description": "InVideo is the best video editor for beginners. It provides you with beautiful templates, graphic elements, animations, overlays, and many advanced editing options in a way that is easy for anybody to use. It also has a whole list of how to make edits to videos tutorials to make the whole process easier for you.",
+        "rating": 3.5,
+        "price": 47.56
+    }
+]

@@ -1,0 +1,22 @@
+.logo{
+    width: 100px;
+}
+/* .navigation{
+   
+} */
+
+li :hover{
+    border-bottom: 2px solid red;
+    transition: 0.1s ease-in-out;
+}
+.left-section h1{
+    color: rgb(67,105,217)
+}
+.left-section::before{
+    content: '';
+    /* position: absolute; */
+    border-left: 3px solid rgb(48,62,140);
+}
+/* .getting-started-btn{
+    margin-top: 78px;
+} */
