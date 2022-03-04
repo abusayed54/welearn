@@ -8,6 +8,7 @@ import Aboutus from './component/Aboutus/Aboutus';
 import NotFound from './component/NotFound/NotFound';
 import { StickyNav } from 'react-js-stickynav';
 import Footer from './component/Footer/Footer'
+import Thanks from './component/Thanks/Thanks';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
           <Route path="/services" element={<Services />}></Route>
           <Route path="/pricing" element={<Pricing />}></Route>
           <Route path="/aboutus" element={<Aboutus />}></Route>
+          <Route path="/thanks" element={<Thanks />}></Route>
           <Route path="*" element={<NotFound />}></Route >
         </Routes>
         <Footer></Footer>
